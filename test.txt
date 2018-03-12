@@ -1,0 +1,2 @@
+learn how to use GIT
+원격저장소로 푸쉬
